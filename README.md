@@ -3,9 +3,6 @@
 Hyper is an Electron based terminal that can be customized with plugins written in Javascript. 
 This "project" is to show the general concept for a beginner.
 
-```
-```
-
 ## Usage
 If you want to try this on your Hyper terminal, clone the repo and put 
 ```
